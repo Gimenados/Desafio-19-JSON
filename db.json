@@ -4,17 +4,6 @@
                 { "name": "Ventilador", "price": "29.99" },
                 { "name": "Aire acondicionado", "price": "39.99" },
                 { "name": "Lavarropas", "price": "89.99" },
-                { "name": "Computadora", "price": "129.99" },
-                { "name": "Estufa", "price": "59.99" },
-                { "name": "Cocina", "price": "99.99" },
-                { "name": "Parlantes", "price": "209.99" },
-                { "name": "Celulares", "price": "129.99" },
-                { "name": "Cargadores", "price": "15.99" },
-                { "name": "Batidora", "price": "19.00" },
-                { "name": "Microondas", "price": "14.59" },
-                { "name": "Horno electrico", "price": "79.69" },
-                { "name": "Bicicleta", "price": "29.33" },
-                { "name": "Teclados", "price": "59.50" },
                 { "name": "Mouse", "price": "79.00" }
             ]
       }
