@@ -1,9 +1,25 @@
-      {
-          "products": [
-                { "name": "Heladera", "price": "19.99" },
-                { "name": "Microondas", "price": "29.99" },
-                { "name": "Cafetera", "price": "39.99" },
-                { "name": "Lavarropas", "price": "89.99" },
-                { "name": "Licuadora", "price": "79.00" }
-            ]
-      }
+{
+      "productos":
+              [
+                {
+                  "nombre": "Heladera",
+                  "precio": "$19.9"
+                },
+                {
+                  "nombre": "Cafetera",
+                  "precio": "$5.00"
+                },    
+                {
+                  "nombre": "Microondas",
+                  "precio": "$80.99"
+                },
+                {
+                  "nombre": "Licuadora",
+                  "precio": "$30.98"
+                },
+                {
+                  "nombre": "Batidora",
+                  "precio": "$20.95"
+                }
+              ]
+    }
