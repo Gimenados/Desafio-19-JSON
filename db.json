@@ -1,9 +1,9 @@
       {
           "products": [
                 { "name": "Heladera", "price": "19.99" },
-                { "name": "Ventilador", "price": "29.99" },
-                { "name": "Aire acondicionado", "price": "39.99" },
+                { "name": "Microondas", "price": "29.99" },
+                { "name": "Cafetera", "price": "39.99" },
                 { "name": "Lavarropas", "price": "89.99" },
-                { "name": "Mouse", "price": "79.00" }
+                { "name": "Licuadora", "price": "79.00" }
             ]
       }
